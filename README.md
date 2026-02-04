@@ -30,3 +30,14 @@ bundle install
 rails db:create
 rails db:migrate
 rails server
+```
+
+### 🌐Accessing the App
+http://localhost:3000
+
+## 📚 Purpose
+
+This project was created for learning purposes, focusing on Ruby on Rails fundamentals, database migrations, and CRUD concepts.
+
+## ⚠️ Status
+Learning project / In progress
