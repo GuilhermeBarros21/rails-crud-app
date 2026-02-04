@@ -1,24 +1,32 @@
-# README
+# Rails CRUD App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple Ruby on Rails project created to study CRUD operations, scaffolds, and the basic Rails project structure.
 
-Things you may want to cover:
+## 🚀 Tech Stack
+- Ruby
+- Ruby on Rails
+- PostgreSQL
+- Git & GitHub
 
-* Ruby version
+## 📌 Features
+- User creation
+- User listing
+- User editing
+- User deletion
 
-* System dependencies
+## ▶️ Getting Started
 
-* Configuration
+### Prerequisites
+- Ruby installed
+- PostgreSQL installed
+- Bundler installed
 
-* Database creation
+### Setup
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+git clone git@github.com:GuilhermeBarros21/rails-crud-app.git
+cd rails-crud-app
+bundle install
+rails db:create
+rails db:migrate
+rails server
