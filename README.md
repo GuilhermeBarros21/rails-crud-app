@@ -32,7 +32,7 @@ rails db:migrate
 rails server
 ```
 
-### 🌐Accessing the App
+## 🌐Accessing the App
 http://localhost:3000
 
 ## 📚 Purpose
